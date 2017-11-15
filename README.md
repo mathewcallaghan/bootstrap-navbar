@@ -9,10 +9,10 @@ This plugin will add the classes required by the Bootstrap 4 Navbar component to
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
 <?php
 	wp_nav_menu( array(
-    'theme_location' => 'your-menu',
-    'menu_class' => 'navbar-nav',
-    'container' => ''
-) );
+	'theme_location' => 'your-menu',
+	'menu_class' => 'navbar-nav',
+	'container' => ''
+	) );
 ?>
 </nav>
 ```
