@@ -20,3 +20,6 @@ This plugin will add the classes required by the Bootstrap 4 Navbar component to
 ###### Dividers
 A divider can be added to drop down menus by adding a Custom Link with a class of **dropdown-divider**
 The URL and Link Text will not be shown in the menu.
+
+###### Disabled Links
+Add the class **disabled** to the remove the link.
