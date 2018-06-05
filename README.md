@@ -22,4 +22,4 @@ A divider can be added to drop down menus by adding a Custom Link with a class o
 The URL and Link Text will not be shown in the menu.
 
 ###### Disabled Links
-Add the class **disabled** to the remove the link.
+Add the class **disabled** to the menu link to disable it.
