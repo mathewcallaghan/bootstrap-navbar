@@ -70,6 +70,12 @@ function navlink_css( $atts, $item, $args, $depth) {
 		
 		}
 		
+		if ( 'disabled' === $value ) {
+			
+		$atts['href'] = '';
+		
+		}
+		
 		if ( 'menu-item-has-children' === $value || 'page_item_has_children' === $value ) {
 			
 		$atts['class'] = 'nav-link dropdown-toggle';
