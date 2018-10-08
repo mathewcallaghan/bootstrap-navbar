@@ -1,7 +1,7 @@
 # Wordpress Bootstrap Navbar
 Make a Wordpress menu compatible with Bootstrap Navbar
 
-This plugin will add the classes required by the Bootstrap 4 Navbar component to the Wordpress menu. A complete navbar requires Bootstrap 4 and the navbar structure in your Wordpress theme.
+This plugin will add the CSS classes required to display a Wordpress menu as Bootstrap Navbars. A complete navbar requires Bootstrap 4 and the navbar structure in your theme.
 
 ###### Example
 
