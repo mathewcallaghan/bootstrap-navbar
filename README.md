@@ -6,11 +6,11 @@ This plugin will add the CSS classes required to display a Wordpress menu as a B
 ###### Example
 
 ```
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
 <?php
 	wp_nav_menu( array(
 	'theme_location' => 'your-menu',
-	'menu_class' => 'navbar-nav',
+	'menu_class' => 'navbar-nav mr-auto',
 	'container' => ''
 	) );
 ?>
