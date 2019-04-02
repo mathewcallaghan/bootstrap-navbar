@@ -11,7 +11,7 @@
  * Version:           1.0.0
  * Author:            Mathew Callaghan
  * Author URI:        https://mathew.callaghan.xyz/
- * License:           GPL-2.0+
+ * License:           GPL-3.0+
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:       bootstrap-navbar
  * Domain Path:       /languages
