@@ -1,14 +1,14 @@
 <?php
 /**
  * @link              https://github.com/mathewcallaghan/bootstrap-navbar
- * @since             1.0.1
+ * @since             1.0.0
  * @package           Bootstrap_Navbar
  *
  * @wordpress-plugin
  * Plugin Name:       Bootstrap Navbar
  * Plugin URI:        https://github.com/mathewcallaghan/bootstrap-navbar
  * Description:       Make a Wordpress menu compatible with Bootstrap 4 (requires Bootstrap 4).
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Mathew Callaghan
  * Author URI:        https://mathew.callaghan.xyz/
  * License:           GPL-3.0+
