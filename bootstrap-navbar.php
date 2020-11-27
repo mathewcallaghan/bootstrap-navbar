@@ -1,7 +1,7 @@
 <?php
 /**
  * @link              https://github.com/mathewcallaghan/bootstrap-navbar
- * @since             1.0.0
+ * @since             1.0.1
  * @package           Bootstrap_Navbar
  *
  * @wordpress-plugin
@@ -80,7 +80,6 @@ function navlink_css( $atts, $item, $args, $depth) {
 		if ( 'menu-item-has-children' === $value || 'page_item_has_children' === $value ) {
 			
 		$atts['class'] = 'nav-link dropdown-toggle';
-		$atts['id'] = 'temp-id';
 		$atts['data-toggle'] = 'dropdown';
 		$atts['aria-haspopup'] = 'true';
 		$atts['aria-expanded'] = 'false';
