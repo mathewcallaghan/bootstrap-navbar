@@ -13,7 +13,6 @@
  * Author URI:        https://mathew.callaghan.xyz/
  * License:           GPL-3.0+
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
- * GitHub Plugin URI: mathewcallaghan/bootstrap-navbar
  * Text Domain:       bootstrap-navbar
  * Domain Path:       /languages
  */
